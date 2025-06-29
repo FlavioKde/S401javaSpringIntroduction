@@ -151,5 +151,3 @@ Learning resources section
 
 Mobile-responsive Markdown formatting
 
-The README maintains all the requested exercise details while presenting them in a professional, developer-friendly format that would appear excellent on GitHub or other platforms.
-
